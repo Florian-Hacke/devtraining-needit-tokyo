@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-28 13:46:56</sys_created_on>
+        <sys_id>95bdf73597fa911097133bc3f153aff9</sys_id>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_95bdf73597fa911097133bc3f153aff9</sys_update_name>
+        <title><![CDATA[<p><em><strong>These are the NeedIt Proper</strong></em><em><strong>tie</strong></em><em><strong>s</strong></em><em><strong><img src="/sys_attachment.do?sys_id&#61;280e73bd97ba911097133bc3f153afa1" width="40" height="40" /></strong></em></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=95bdf73597fa911097133bc3f153aff9"/>
+</record_update>
